@@ -1,0 +1,7 @@
+Desafio SEO
+
+1-Se agrego un title personalizado a cada pagina (HTML)
+2-Se personalizaron todos los textos alternativos de las imagenes
+3-Se corroboro que cada pagina tenga un H1
+4-Se agregaron keywords
+5-Se agrego descripcion personalizada a cada pagina
